@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+header p{
+    font-size: 24px;
+    color: #000000;
+    background-color: #0776A0;
+    padding: 20px;
+}
+
+header img{
+    height: 30px;
+} 
+font {
+    background-color: #FFB600;
+    border-radius: 21px;
+    padding: 6px;
+    margin-left: 10px;
+}
+main h1 {
+    text-align: center;
+}
